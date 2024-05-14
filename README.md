@@ -106,7 +106,9 @@
 </details>
 </div>
 <div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31idukloxlxrdnwydaybxnivujnu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31idukloxlxrdnwydaybxnivujnu" alt="Data Card for Spotify">
+</a>
 <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
 </div>
 <div>
@@ -123,3 +125,4 @@
 </div>
 </div>
 
+-------
