@@ -6,7 +6,7 @@
 # 👨‍💻 Meu GitHub - Diogo Silva Lana
 
 Seja muito bem-vindo ao meu espaço no GitHub! 😄🚀  
-Aqui você encontrará minha trajetória, experiências, projetos e tecnologias com foco em automação de processos e qualidade de software.
+Aqui você encontrará minha trajetória, experiências, projetos e tecnologias com foco em automação de processos.
 
 ---
 
