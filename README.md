@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Diogo Silva Lana</h1>
-<p align="center">RPA Developer | QA Automation | Python</p>
+<p align="center">RPA Developer</p>
 
 ---
 
