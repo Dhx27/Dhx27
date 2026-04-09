@@ -18,7 +18,7 @@ Aqui você encontrará minha trajetória, experiências, projetos e tecnologias 
 - ⚽ **Hobbies** – Games, futebol e família  
 
 💡 **Objetivo profissional:**  
-Atuar com automação de processos (RPA) e qualidade de software, desenvolvendo soluções que gerem eficiência operacional e impacto real nos negócios.
+Atuar com automação de processos (RPA) e desenvolvimento de software, desenvolvendo soluções que gerem eficiência operacional e impacto real nos negócios.
 
 📘 **Atualmente estudando:** `Java`, `Python`, `RPA`, `SQL`
 
